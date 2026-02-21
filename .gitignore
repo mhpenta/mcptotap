@@ -1,0 +1,23 @@
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Go build/test artifacts
+bin/
+dist/
+*.test
+*.out
+coverage.out
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.*
+
+# Editor swap files
+*.swp
+*.swo
