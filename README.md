@@ -15,7 +15,7 @@ This adapter bridges an MCP server into a `tap-go/client.ToolClient` so TAP-orie
 - Stdio MCP adapter (`NewStdio`)
 - `List`, `Get`, `Run`, and `RunStream` methods compatible with TAP client expectations
 
-## Tiny Usage (Modeledge Style)
+## Usage
 
 ```go
 // HTTP MCP endpoint
